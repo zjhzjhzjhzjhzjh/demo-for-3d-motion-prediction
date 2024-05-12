@@ -17,3 +17,4 @@ Visualization results of our 3D human motion prediction method
 ![Image text](https://github.com/zjhzjhzjhzjhzjh/demo-for-3d-motion-prediction/blob/main/img/takingphoto.gif)
 ![Image text](https://github.com/zjhzjhzjhzjhzjh/demo-for-3d-motion-prediction/blob/main/img/walkingdog.gif)
 ![Image text](https://github.com/zjhzjhzjhzjhzjh/demo-for-3d-motion-prediction/blob/main/img/directions.gif)
+![Image text](https://github.com/zjhzjhzjhzjhzjh/demo-for-3d-motion-prediction/blob/main/img/1.png))
