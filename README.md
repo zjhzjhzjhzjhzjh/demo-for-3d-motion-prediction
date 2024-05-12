@@ -1,6 +1,7 @@
 # demo-for-3d-motion-prediction
 Supplementary to the visualization results of our 3D human motion prediction method
-Human3.6M
+The trained model verifies the visualization results of 15 action predictions for 25 frames (1000ms) on the H3.6M dataset
+The frame value<0 in the legend is a known frame, and>0 is a predicted frame
 
 
 ![Image text](https://github.com/zjhzjhzjhzjhzjh/demo-for-3d-motion-prediction/blob/main/img/walking.gif)
